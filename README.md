@@ -10,3 +10,5 @@
       leading from 3 to 5, and 1 to 5
 4- Generalize the relationship
 5- Implement by finding subproblems in order
+
+Video lesson link: https://www.youtube.com/watch?v=aPQY__2H3tE
